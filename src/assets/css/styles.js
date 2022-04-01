@@ -9,3 +9,7 @@ export const Back = styled.div`
     align-items: center;
     background-color: #079441;
 `;
+
+export const LogoImg = styled.img`
+    
+`;

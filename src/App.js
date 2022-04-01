@@ -1,15 +1,14 @@
 import React from "react";
-import { Background } from "./components/Background";
-import { Logo } from "./components/Background/logo";
+import { Back } from "./assets/css/styles";
+import { Logo } from "./components/Pomodoro/Logo";
 
 
 
 function App() {
     return ( 
-    <div className = "App" > 
-        <Background></Background>
-    </div>
-    
+    <Back> 
+        <Logo/>
+    </Back>
     );
 }
 
