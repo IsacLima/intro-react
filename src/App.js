@@ -1,14 +1,14 @@
 import React from "react";
-import { Back } from "./assets/css/styles";
+import { Background } from "./assets/css/styles";
 import { Logo } from "./components/Pomodoro/Logo";
 
 
 
 function App() {
     return ( 
-    <Back> 
+    <Background> 
         <Logo/>
-    </Back>
+    </Background>
     );
 }
 

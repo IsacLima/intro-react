@@ -1,7 +1,6 @@
-import React from "react";
 import styled from "styled-components";
 
-export const Back = styled.div`
+export const Background = styled.div`
     height: 100vh;
     width: 100vw;
     display: flex;
@@ -11,5 +10,6 @@ export const Back = styled.div`
 `;
 
 export const LogoImg = styled.img`
-    
+    height: 72px;
+    width: 72px;
 `;
