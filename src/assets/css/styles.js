@@ -13,6 +13,7 @@ export const Background = styled.div`
 export const LogoImg = styled.img`
     height: 72px;
     width: 72px;
+    margin-bottom: 30px;
 `;
 
 export const Box = styled.div`

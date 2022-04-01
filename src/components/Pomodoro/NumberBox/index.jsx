@@ -4,7 +4,7 @@ export function NumberBox() {
     return(
         <Box>
             <Flexbox
-            width="80px"
+            width="80%"
             >
                 <h2></h2>
                 <h2>:</h2>
@@ -14,7 +14,7 @@ export function NumberBox() {
             </Flexbox>
             
             <Flexbox
-            width="100px"
+            width="80%"
             >
                 <button><img src="" alt="play"/></button>
                 <button><img src="" alt="pause"/></button>
